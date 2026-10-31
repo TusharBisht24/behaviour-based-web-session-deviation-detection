@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+behaviour.db
+.vscode/
+.env
